@@ -2,9 +2,7 @@
 
 Rocket Equation Calc shares a small python program rocket.py, which solves Tsiolkovsky's rocket equation.
 
-$
-\Delta v = v_e \ln (\frac{m_0}{m_f})
-$
+$\Delta v = v_e \ln (\frac{m_0}{m_f})$
 
 $\Delta v$: the delta velocity
 $v_e$: the exhaust velocity
